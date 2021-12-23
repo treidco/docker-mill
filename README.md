@@ -1,3 +1,3 @@
 # docker-mill
 
-Deprecated by github.com/treidco/mill-build-system
+Deprecated by https://github.com/treidco/mill-build-system
